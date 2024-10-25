@@ -12,7 +12,7 @@ Since the report for the dataset preparation and our computational analysis work
 * We also attached a corresponding text in photo, taken from the book of the chants. 
 
 <p align="center">
-    <img src="/supplementary/manuscript_segment_2024-10-25_185957.png"  height="200px"  width="50%">
+    <img src="/supplementary/manuscript_segment_2024-10-25_185957.png"  height="300px"  width="70%">
 </p>
 
 **Our dataset will be released soon.**
