@@ -8,4 +8,4 @@
     <img src="/supplementary/manuscript_segment_2024-10-25_185957.png"  height="200px"  width="50%">
 </p>
 
-* **Our dataset will be publicly available soon.**
+**Our dataset will be publicly available soon.**
