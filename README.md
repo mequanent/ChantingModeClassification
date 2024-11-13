@@ -15,4 +15,4 @@ Since the report for the dataset preparation and our computational analysis work
     <img src="/supplementary/manuscript_segment_2024-10-25_185957.png"  height="300px"  width="70%">
 </p>
 
-**Our Dataset is: ** `zema-data-set-mode-labeled.csv`
+**Our Dataset is:** `zema-data-set-mode-labeled.csv`
