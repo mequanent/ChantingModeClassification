@@ -1,6 +1,6 @@
 # Zema Dataset 
 **This is a repository of our new dataset.**
-Since the report for the dataset preparation and our computational analysis works are more than a single conference paper, we partitioned our work so far into the following two conferences.
+Since the report for the dataset preparation and our computational analysis works are more than a single conference paper, we partitioned our work into the following two conferences.
 
 * Mequanent Argaw Muluneh, Yan-Tsung Peng, Li Su. **Computational Analysis of Yaredawi YeZema Silt in Ethiopian Orthodox Tewahedo Church Chants**, The 25th International Society for Music Information Retrieval Conference (**ISMIR 2024**), San Francisco, California, USA
 
